@@ -1,0 +1,11 @@
+com\trusohamn\menu\parsers\Sort.class
+com\trusohamn\menu\foods\Menu.class
+com\trusohamn\menu\parsers\ParseJSON.class
+com\trusohamn\menu\app\App.class
+com\trusohamn\menu\foods\Food.class
+com\trusohamn\menu\foods\My_menu.class
+com\trusohamn\menu\app\MyContainer.class
+com\trusohamn\menu\parsers\FileUtils.class
+com\trusohamn\menu\parsers\Parser.class
+com\trusohamn\menu\parsers\ParseXML.class
+com\trusohamn\menu\app\FoodContainerImpl.class

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<my_menu>
+	<food>
+		<name>Hamburger</name>
+		<price>30</price>
+	</food>
+	<food>
+		<name>Eggs</name>
+		<price>10</price>
+	</food>
+	<food>
+		<name>Sandwich</name>
+		<price>20</price>
+	</food>
+	<food>
+		<name>Sandwich</name>
+		<price>30</price>
+	</food>
+	<food>
+		<name>Sandwich</name>
+		<price>15</price>
+	</food>
+</my_menu>

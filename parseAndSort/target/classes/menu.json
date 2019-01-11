@@ -1,0 +1,26 @@
+{
+  "my_menu": {
+    "food": [
+      {
+        "name": "Hamburger",
+        "price": "30"
+      },
+      {
+		"name": "Eggs",
+        "price": "10"
+      },
+      {
+        "name": "Sandwich",
+        "price": "20"
+      },
+      {
+        "name": "Sandwich",
+        "price": "30"
+      },
+      {
+        "name": "Sandwich",
+        "price": "15"
+      }
+    ]
+  }
+}
